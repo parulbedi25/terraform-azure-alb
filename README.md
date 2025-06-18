@@ -1,6 +1,4 @@
 # terraform-azure-alb
-terraform-azure-alb
-
 
 Create an Azure resource group using azurerm_resource_group - https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group
 
